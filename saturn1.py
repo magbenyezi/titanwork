@@ -1,5 +1,7 @@
 Saturn has many names
 Mimas
-Dione
+Tethys
 Rhea
+Phoebe
 Hyperion
+Pan
